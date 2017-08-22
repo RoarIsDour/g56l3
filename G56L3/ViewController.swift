@@ -17,6 +17,9 @@ class ViewController: UIViewController {
 
 
     }
+    func newMethod() -> Int {
+        return 5
+    }
 
     func sayHello() {
         print("Hello")
